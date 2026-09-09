@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://synegieinfra.github.io/reference-11hh7u/sitemap.xml
